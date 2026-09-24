@@ -39,9 +39,20 @@ I like building systems that do more than report what happened — they should h
 
 <br/>
 
-<a href="https://github.com/AminKhorasani/jaeiro">
-  <img src="./assets/project-jaeiro.svg" alt="Jaeiro" width="100%" />
-</a>
+<table>
+  <tr>
+    <td width="16%" align="center" valign="middle">
+      <a href="https://github.com/AminKhorasani/jaeiro">
+        <img src="https://raw.githubusercontent.com/AminKhorasani/jaeiro/main/public/brand/logo-mark%402x.png" alt="Jaeiro logo" width="110" />
+      </a>
+    </td>
+    <td width="84%" valign="middle">
+      <a href="https://github.com/AminKhorasani/jaeiro">
+        <img src="./assets/project-jaeiro.svg" alt="Jaeiro" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
