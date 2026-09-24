@@ -1,0 +1,16 @@
+<svg width="1200" height="230" viewBox="0 0 1200 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="1198" height="228" rx="24" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+  <rect x="28" y="28" width="8" height="174" rx="4" fill="#EF4056"/>
+  <text x="64" y="54" fill="#EF4056" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" font-weight="700" letter-spacing="1.4">FEATURED / 01</text>
+  <text x="64" y="94" fill="#F0F6FC" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="31" font-weight="800">Poolak</text>
+  <text x="64" y="127" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="16">Personal-finance product for accounts, budgets, goals and safe-to-spend decisions.</text>
+  <text x="64" y="171" fill="#F0F6FC" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13">TypeScript   React   Express   Prisma   PostgreSQL</text>
+
+  <rect x="834" y="36" width="318" height="158" rx="18" fill="#161B22" stroke="#30363D"/>
+  <text x="858" y="67" fill="#8B949E" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" letter-spacing="1.2">SAFE TO SPEND</text>
+  <text x="858" y="111" fill="#F0F6FC" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="30" font-weight="800">2.84M</text>
+  <text x="858" y="135" fill="#3FB950" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">▲ modeled balance</text>
+  <rect x="858" y="158" width="246" height="7" rx="3.5" fill="#30363D"/>
+  <rect x="858" y="158" width="178" height="7" rx="3.5" fill="#EF4056"/>
+  <circle cx="1110" cy="161.5" r="5" fill="#F0F6FC"/>
+</svg>
