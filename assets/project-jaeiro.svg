@@ -1,29 +1,32 @@
-<svg width="1000" height="230" viewBox="0 0 1000 230" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect x="1" y="1" width="998" height="228" rx="24" fill="#FFF5EC" stroke="#E8D8C2" stroke-width="2"/>
-  <rect x="28" y="28" width="8" height="174" rx="4" fill="#F2620E"/>
+<svg width="1200" height="230" viewBox="0 0 1200 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="1198" height="228" rx="24" fill="#FFF5EC" stroke="#E8D8C2" stroke-width="2"/>
+  <rect x="34" y="28" width="8" height="174" rx="4" fill="#F2620E"/>
 
-  <text x="64" y="52" fill="#D94F06" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" font-weight="700" letter-spacing="1.5">FEATURED / 02 · JAEIRO</text>
-  <text x="64" y="91" fill="#1F1F1F" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="30" font-weight="800">Jaeiro / جایی‌رو</text>
-  <text x="64" y="124" fill="#6F6258" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15">A mobile-first community for discovering food experiences in Tehran.</text>
+  <rect x="66" y="56" width="96" height="96" rx="24" fill="#FFF9F2" stroke="#E8D8C2"/>
+  <image href="https://raw.githubusercontent.com/AminKhorasani/jaeiro/main/public/brand/logo-mark%402x.png"
+         x="72" y="62" width="84" height="84" preserveAspectRatio="xMidYMid meet"/>
 
-  <rect x="64" y="151" width="88" height="28" rx="14" fill="#FFF0E7" stroke="#FFC09A"/>
-  <text x="85" y="170" fill="#B94104" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">Next.js</text>
-  <rect x="162" y="151" width="104" height="28" rx="14" fill="#FFF0E7" stroke="#FFC09A"/>
-  <text x="182" y="170" fill="#B94104" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">TypeScript</text>
-  <rect x="276" y="151" width="82" height="28" rx="14" fill="#FFF0E7" stroke="#FFC09A"/>
-  <text x="298" y="170" fill="#B94104" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">Prisma</text>
-  <rect x="368" y="151" width="116" height="28" rx="14" fill="#FFF0E7" stroke="#FFC09A"/>
-  <text x="390" y="170" fill="#B94104" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">PostgreSQL</text>
+  <text x="192" y="57" fill="#D94F06" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" font-weight="700" letter-spacing="1.4">FEATURED / 02 · JAEIRO</text>
+  <text x="192" y="105" fill="#1F1F1F" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="31" font-weight="800">Jaeiro / جایی‌رو</text>
+  <text x="192" y="142" fill="#6F6258" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="16">A mobile-first community for discovering food experiences in Tehran.</text>
 
-  <rect x="685" y="32" width="279" height="166" rx="20" fill="#FFF9F2" stroke="#E8D8C2"/>
-  <text x="708" y="60" fill="#6F6258" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" font-weight="700" letter-spacing="1.2">DISCOVER / SAVE / REVIEW</text>
+  <rect x="192" y="167" width="92" height="30" rx="15" fill="#FFF0E7" stroke="#FFC09A"/>
+  <text x="219" y="187" fill="#B94104" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" font-weight="700">Next.js</text>
+  <rect x="296" y="167" width="112" height="30" rx="15" fill="#FFF0E7" stroke="#FFC09A"/>
+  <text x="324" y="187" fill="#B94104" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" font-weight="700">TypeScript</text>
+  <rect x="420" y="167" width="88" height="30" rx="15" fill="#FFF0E7" stroke="#FFC09A"/>
+  <text x="447" y="187" fill="#B94104" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" font-weight="700">Prisma</text>
+  <rect x="520" y="167" width="122" height="30" rx="15" fill="#FFF0E7" stroke="#FFC09A"/>
+  <text x="548" y="187" fill="#B94104" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" font-weight="700">PostgreSQL</text>
 
-  <circle cx="772" cy="122" r="46" fill="#FFF0E7" stroke="#FFC09A"/>
-  <circle cx="772" cy="122" r="24" fill="#F2620E" fill-opacity="0.12" stroke="#F2620E" stroke-width="3"/>
-  <circle cx="772" cy="122" r="6" fill="#F2620E"/>
-  <circle cx="842" cy="91" r="8" fill="#F4A62A"/>
-  <circle cx="889" cy="139" r="10" fill="#3F8F5B"/>
-  <circle cx="926" cy="91" r="6" fill="#C86A4A"/>
-  <path d="M798 111C823 99 840 96 858 103C878 111 895 107 928 91" stroke="#1F1F1F" stroke-width="2.5" stroke-linecap="round"/>
-  <path d="M817 145C839 151 858 157 882 149C897 145 907 139 916 132" stroke="#F2620E" stroke-width="2.5" stroke-linecap="round"/>
+  <rect x="850" y="36" width="314" height="158" rx="20" fill="#FFF9F2" stroke="#E8D8C2"/>
+  <text x="879" y="64" fill="#6F6258" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700" letter-spacing="1.5">DISCOVER / SAVE / REVIEW</text>
+  <circle cx="950" cy="122" r="48" fill="#FFF0E7" stroke="#FFC09A"/>
+  <circle cx="950" cy="122" r="25" fill="none" stroke="#F2620E" stroke-width="4"/>
+  <circle cx="950" cy="122" r="7" fill="#F2620E"/>
+  <circle cx="1030" cy="92" r="10" fill="#F4A62A"/>
+  <circle cx="1088" cy="147" r="13" fill="#3F8F5B"/>
+  <circle cx="1122" cy="92" r="8" fill="#C86A4A"/>
+  <path d="M992 106C1018 95 1037 98 1055 104C1075 112 1095 113 1122 96" stroke="#1F1F1F" stroke-width="3" stroke-linecap="round"/>
+  <path d="M1018 154C1040 162 1063 166 1087 160C1104 156 1118 148 1136 136" stroke="#F2620E" stroke-width="3" stroke-linecap="round"/>
 </svg>
